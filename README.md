@@ -1,13 +1,23 @@
 ## Welcome to Hogwarts
 
 Merlin's beard!
+
 Hey witches and wizards!
+
 Get Sorted in your favorite house, know more about Harry Potter characters and learn exciting spells!
 
 
-### The Sorting Hat
->I shall place the sorting hat on your head and you will be sorted into your houses.
->- Professor Minerva McGonagall
+#### The Sorting Hat
+
+### The Four Houses
+
+# Gryffindor '-' Where dwell The Brave at Heart
+
+# Hufflepuff '-' Where they are Just and Loyal 
+
+# Ravenclaw '-' Where those of wit and learning
+
+# Slytherin '-' Where they are Ambitious and Cunning
 
 ```markdown
 Syntax highlighted code block
