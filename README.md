@@ -4,7 +4,7 @@ Hey witches and wizards!
 
 Your letter to Hogwarts is here!
 
-Get sorted in your favorite house, know more about Harry Potter characters and learn exciting spells!
+Get sorted into your favorite house, know more about Harry Potter characters and learn exciting spells!
 
 
 ## Discover your Hogwarts house
