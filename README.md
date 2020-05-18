@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to Hogwarts
 
-You can use the [editor on GitHub](https://github.com/sowmya2012/sowmya2012.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Merlin's beard!
+Hey witches and wizards!
+Get Sorted in your favorite house, know more about Harry Potter characters and learn exciting spells!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### The Sorting Hat
+>I shall place the sorting hat on your head and you will be sorted into your houses.
+>- Professor Minerva McGonagall
 
 ```markdown
 Syntax highlighted code block
