@@ -1,43 +1,31 @@
 ## Welcome to Hogwarts
 
 Merlin's beard!
-
 Hey witches and wizards!
 
-Get Sorted in your favorite house, know more about Harry Potter characters and learn exciting spells!
+Get sorted in your favorite house, know more about Harry Potter characters and learn exciting spells!
 
 
-#### The Sorting Hat
+## The Sorting Hat
 
 ### The Four Houses
 
-# Gryffindor '-' Where dwell The Brave at Heart
+#### Gryffindor 
 
-# Hufflepuff '-' Where they are Just and Loyal 
+> Where dwell The Brave at Heart
 
-# Ravenclaw '-' Where those of wit and learning
+#### Hufflepuff 
 
-# Slytherin '-' Where they are Ambitious and Cunning
+> Where they are Just and Loyal 
 
-```markdown
-Syntax highlighted code block
+#### Ravenclaw 
 
-# Header 1
-## Header 2
-### Header 3
+> Where those of wit and learning
 
-- Bulleted
-- List
+#### Slytherin 
 
-1. Numbered
-2. List
+> Where they are Ambitious and Cunning
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
